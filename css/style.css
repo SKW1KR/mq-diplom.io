@@ -18,7 +18,7 @@ body {
   height: 100vh;
   min-height: 568px;
   background-color: #121134;
-  background: url('/320/header_bg_320.jpg') no-repeat;
+  background: url('320/header_bg_320.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 0;
 }
@@ -134,7 +134,7 @@ body {
   right: 0;
   bottom: 10px;
   content: '';
-  background: url('/320/footballer_320.png') no-repeat center;
+  background: url('320/footballer_320.png') no-repeat center;
   min-width: 320px;
   height: 281px;
   margin: auto;
